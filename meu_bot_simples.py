@@ -26,4 +26,4 @@ class MyClient(discord.Client):
             await guild.system_channel.send(mensagem)
 
 client =  MyClient(intents=intents)
-client.run('MTA5ODc3NDIwMzYyMjI0NDQ2NQ.Go82VY.Vxl-AdIArSwDU6jiyeOqQb2b5oG_iSNtETup90')
+client.run('my token here')
